@@ -27,6 +27,8 @@ JINS MEME ES で取得できる集中力は、「あたま」、 「こころ」
  
  ## UI
  <strong>loading画面 + JINS MEME ES接続画面</strong><br>
- <img src="https://github.com/degudegu2510/JINS-MUSIC/blob/master/image/Lounch1-4.png?raw=true">
+ <img src="https://github.com/degudegu2510/JINS-MUSIC/blob/master/image/Lounch1-4.png?raw=true"><br>
  <strong>メイン画面</strong><br>
- <img src="https://github.com/degudegu2510/JINS-MUSIC/blob/master/image/Main1-1%20%E2%80%93%201.png">
+ <img src="https://github.com/degudegu2510/JINS-MUSIC/blob/master/image/Main1-1%20%E2%80%93%201.png"><br>
+ 
+ 
